@@ -7,7 +7,7 @@
 
 
 - 😄 Pronouns:She/Her
-- 💭 Python and data analytics is what im currently learning at the moment!
+- 💭 I'm currently learning at the moment! Python
 - ⚡A Fun fact: Is that I really love to go skateboarding or snowboarding, I enjoy the active life but you can also catch me in the sofa watching anyting thats rreality.
 - 📫 How to reach me: Contact me at @sandrasiphokaziii@gmail.com or @sandrasiphokazi on all social platforms
 
