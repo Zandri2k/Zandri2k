@@ -4,6 +4,7 @@
 - 🔭 Trying to navigate in this big candy bag of things to learns but I'm currently looking to widen my programming knowledgen with a greater range of different languages.
 
 ![Sandras's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 😄 Pronouns:She/Her
