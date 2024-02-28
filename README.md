@@ -1,6 +1,6 @@
 ### Hi there an welcome to my page, I'm Sandra 👋
 
-- 🌱I'm a curious, newley started programmings student whos eager to learn new things about the programming world. Former game dev student with an extra eye on sound design and music composing
+- 🌱I'm a curious, newley started programmings student whos eager to learn new things about the programming world. Former game dev student with a bachelor degree in sound design
 - 🔭 Trying to navigate in this big candy bag of things to learns but I'm currently looking to widen my programming knowledgen with a greater range of different languages.
 
 
