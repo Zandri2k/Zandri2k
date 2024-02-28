@@ -3,8 +3,7 @@
 - 🌱I'm a curious, newley started programmings student whos eager to learn new things about the programming world. Former game dev student with a bachelor degree in sound design
 - 🔭 Trying to navigate in this big candy bag of things to learns but I'm currently looking to widen my programming knowledgen with a greater range of different languages.
 
-![Sandras's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Sandras's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zandri2k&show_icons=true&theme=tokyonight)
 
 
 - 😄 Pronouns:She/Her
