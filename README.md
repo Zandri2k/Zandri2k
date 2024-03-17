@@ -8,6 +8,6 @@
 
 - 😄 Pronouns:She/Her
 - 💭 I'm currently learning Python at the moment! 
-- ⚡A Fun fact: Is that I really love to go skateboarding or snowboarding, I enjoy the active life but you can also catch me in the sofa watching anyting thats rreality.
+- ⚡A Fun fact: Is that I really love to go skateboarding or snowboarding, I enjoy the active life but you can also catch me in the sofa watching anyting thats reality.
 - 📫 How to reach me: Contact me at @sandrasiphokaziii@gmail.com or @sandrasiphokazi on all social platforms
 
